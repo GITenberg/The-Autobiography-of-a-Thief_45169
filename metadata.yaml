@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32202'
     url: http://www.gutenberg.org/2009/agents/32202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45169#The-Autobiography-of-a-Thief
 gutenberg_issued: '2014-03-18'
 gutenberg_type: Text
 identifiers:
